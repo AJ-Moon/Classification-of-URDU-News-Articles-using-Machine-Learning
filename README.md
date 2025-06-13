@@ -16,8 +16,6 @@ The core objective of this project is to:
   3. Sports
   4. Science-Technology
   5. International
-- Implement at least three machine learning models **from scratch** (no `sklearn` usage allowed for grading).
-- Evaluate and compare model performance to select the best classifier.
 
 ---
 
@@ -100,12 +98,6 @@ A detailed report written in **ACM format** is included in the `/report` folder.
 - Model Descriptions
 - Evaluation Results
 - Conclusion & Future Work
-
----
-
-## 🏆 Competition
-
-This project is part of a course-wide competition. The top 3 performing teams (based on model accuracy) will receive **bonus marks**.
 
 ---
 
