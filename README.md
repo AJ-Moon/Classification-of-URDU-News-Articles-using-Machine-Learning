@@ -84,7 +84,6 @@ Each model was trained and tested on the dataset, and evaluated using:
 - Recall
 - F1-Score
 
-(Sklearn models may be used **for comparison only**, not for grading.)
 
 ---
 
